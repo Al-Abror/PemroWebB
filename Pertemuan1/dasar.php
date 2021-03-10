@@ -5,7 +5,7 @@
     $dbl = 1.1;
     $array = ["a", "b", "c"];
 
-    // array associative
+    // array
     $array2 = [
         'nama' => 'Muhammad',
         'nim' => '19241010',
